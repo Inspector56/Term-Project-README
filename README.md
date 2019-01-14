@@ -1,5 +1,5 @@
 # Term-Project-README
-Explains how the project at works.
+Explains how the project at https://ucla-fa18-cs174a.github.io/term-project-group-07/ works.
 
 WHAT IS THIS PROJECT?
 
